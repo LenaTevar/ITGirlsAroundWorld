@@ -11,8 +11,8 @@ Add groups in their respective countries, help to translate, format...
 
 # Countries
 
-- [Sweden](https://github.com/LenaTevar/ITGirlsAroundWorld/blob/master/Svenska.md)
-- [:es: España](https://github.com/LenaTevar/ITGirlsAroundWorld/blob/master/Espa%C3%B1ol.md)
+- [Sweden](https://github.com/LenaTevar/ITGirlsAroundWorld/blob/master/Sverige.md)
+- [:es: España](https://github.com/LenaTevar/ITGirlsAroundWorld/blob/master/Spain.md)
 
 
 
