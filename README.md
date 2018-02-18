@@ -5,6 +5,9 @@ Ska du plugga som Erasmus Student och vill träffa tjejer på IT? Känner du nå
 2. Addera/ändra
 3. Pull!
 
+# Languages
+- [English](https://github.com/LenaTevar/ITGirlsAroundWorld/blob/master/English.md)
+
 # Spanien
 
 | Name  | Description |
