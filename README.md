@@ -1,12 +1,19 @@
 # It Girls Around the world
-Are you going to study/work abroad? 
+List of groups of girls and women, students and profesionals, in IT.
+
+# Collaborate
+Add groups in their respective countries, help to translate, format...
 
 1. Fork it!
 2. Copy
 3. Add/Change
 4. Pull!
 
-# Languages
-- [English](https://github.com/LenaTevar/ITGirlsAroundWorld/blob/master/English.md)
-- [Svenska](https://github.com/LenaTevar/ITGirlsAroundWorld/blob/master/Svenska.md)
-- [Español](https://github.com/LenaTevar/ITGirlsAroundWorld/blob/master/Espa%C3%B1ol.md)
+# Countries
+
+- [Sweden](https://github.com/LenaTevar/ITGirlsAroundWorld/blob/master/Svenska.md)
+- [:es: España](https://github.com/LenaTevar/ITGirlsAroundWorld/blob/master/Espa%C3%B1ol.md)
+
+
+
+Images designed by Freepik from Flaticon
