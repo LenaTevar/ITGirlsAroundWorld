@@ -1,18 +1,12 @@
-# DataTjejerWorld
-Ska du plugga som Erasmus Student och vill träffa tjejer på IT? Känner du nån utlandsk förening?
+# It Girls Around the world
+Are you going to study/work abroad? 
 
 1. Fork it!
-2. Addera/ändra
-3. Pull!
+2. Copy
+3. Add/Change
+4. Pull!
 
 # Languages
 - [English](https://github.com/LenaTevar/ITGirlsAroundWorld/blob/master/English.md)
-
-# Spanien
-
-| Name  | Description |
-| ------------- | ------------- |
-| [FemDevs](https://femdevs.org/)  | Data och konst tjejer med fokus på spel design  |
-| [Yes We Tech](https://yeswetech.org/)  | Data kvinnor (Studenter och proffs)  |
-| [Women in Games ES](https://womeningameses.com)  | Promoting and visibilizing women in videogames  |
-| [WTM MLG](https://twitter.com/WTM_Malaga)  | Google's Women Techmakers group in Malaga |
+- [Svenska](https://github.com/LenaTevar/ITGirlsAroundWorld/blob/master/Svenska.md)
+- [Español](https://github.com/LenaTevar/ITGirlsAroundWorld/blob/master/Espa%C3%B1ol.md)
